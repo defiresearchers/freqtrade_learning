@@ -10,7 +10,7 @@
 
 ### Todo
 - create new custom strategy BBRSI from [the course](https://www.udemy.com/course/algorithmic-trading-in-python/) 
-    - course suggested repository: https://github.com/MontrealTradingGroup/freqtrade
+    - course suggested repository: https://github.com/MontrealTradingGroup/deployPython3VM
         - 2022 not recommended, last commit 2020, the code might be outdated but can be a good inspiration for customized setup
  - run strategy in dry run
  - backtest strategy
